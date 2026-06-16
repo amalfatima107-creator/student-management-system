@@ -28,4 +28,4 @@ Student Management System (C++)
 
 ## Author
 Amal - ICT167 Assignment 2
-grade revieved - 91/100
+Grade revieved - 91/100
