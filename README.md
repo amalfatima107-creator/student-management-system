@@ -27,4 +27,5 @@ Student Management System (C++)
 2. Build and run `main.cpp`
 
 ## Author
-Amal - ICT167 Assignment 2 (91/100)
+Amal - ICT167 Assignment 2
+grade revieved - 91/100
